@@ -1,0 +1,9 @@
+employee_id,store_id,first_name,last_name,department,start_date,salary,currency,isActive
+17,9,Vlade,Snook,sales,2006-09-20 11:30:00.123456,14.73,GBP,Y
+18,9,Tanya,Palm,sales,2006-09-20 11:30:00.123456,15.64,GBP,Y
+39,9,Georgie,Bourdis,marketing,2006-09-20 11:30:00.123456,31.25,GBP,Y
+40,9,Wolfy,Lippatt,marketing,2006-09-20 11:30:00.123456,28.19,GBP,Y
+41,9,Tammie,Jehan,finance,2006-09-20 11:30:00.123456,33.05,GBP,Y
+42,9,Bobbye,Raddish,finance,2006-09-20 11:30:00.123456,31.59,GBP,Y
+43,9,Cyrill,Keene,it,2006-09-20 11:30:00.123456,21.10,GBP,Y
+44,9,Dalton,Coggins,it,2006-09-20 11:30:00.123456,21.10,GBP,Y

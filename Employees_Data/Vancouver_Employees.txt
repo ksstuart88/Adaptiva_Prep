@@ -1,0 +1,9 @@
+employee_id,store_id,first_name,last_name,department,start_date,salary,currency,isActive
+11,6,Scott,Townes,sales,2006-09-20 11:30:00.123456,29.74,CAD,Y
+12,6,Jacob,Fennigan,sales,2006-09-20 11:30:00.123456,27.34,CAD,Y
+75,6,Marybelle,Birkenhead,marketing,2006-09-20 11:30:00.123456,20.94,CAD,Y
+76,6,Neron,Morriss,marketing,2006-09-20 11:30:00.123456,21.79,CAD,Y
+77,6,Delcine,Gilhool,finance,2006-09-20 11:30:00.123456,32.11,CAD,Y
+78,6,Ogdan,Khomishin,finance,2006-09-20 11:30:00.123456,33.49,CAD,Y
+79,6,Creight,Hulls,it,2006-09-20 11:30:00.123456,32.64,CAD,Y
+80,6,Sunny,Kilfedder,it,2006-09-20 11:30:00.123456,19.54,CAD,Y

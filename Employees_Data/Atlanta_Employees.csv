@@ -1,0 +1,9 @@
+employee_id,store_id,first_name,last_name,department,start_date,salary,currency,isActive
+13,7,Tristan,Thompson,sales,2006-09-20 11:30:00.123456,18.97,USD,Y
+14,7,Evelyn,Clark,sales,2006-09-20 11:30:00.123456,15.41,USD,Y
+21,7,Truda,Rosekilly,marketing,2006-09-20 11:30:00.123456,30.95,USD,Y
+22,7,Hy,Zebedee,marketing,2006-09-20 11:30:00.123456,35.26,USD,Y
+23,7,Holli,Pegrum,finance,2006-09-20 11:30:00.123456,37.21,USD,Y
+24,7,Zacharias,Margetts,finance,2006-09-20 11:30:00.123456,39.11,USD,Y
+25,7,Roseanna,Delahunt,it,2006-09-20 11:30:00.123456,48.13,USD,Y
+26,7,Candida,Forsyth,it,2006-09-20 11:30:00.123456,45.26,USD,Y

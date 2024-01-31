@@ -1,0 +1,11 @@
+store_id,location,region
+1,Tacoma,USA-WEST
+2,Portland,USA-WEST
+3,Los Angeles,USA-CAL
+4,San Francisco,USA-CAL
+5,British Columbia,CAN-CAN
+6,Vancouver,CAN-CAN
+7,Atlanta,USA-EAST
+8,Miami,USA-EAST
+9,London,GUK-GUK
+10,Liverpool,GUK-GUK

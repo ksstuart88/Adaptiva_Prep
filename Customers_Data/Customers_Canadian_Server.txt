@@ -1,0 +1,7 @@
+customer_id,first_name,last_name,email
+11,Martelle,Mille,mmillea@aboutads.info
+12,Creighton,Purdie,cpurdieb@admin.ch
+13,Edsel,Plews,eplewsc@google.nl
+14,Margarethe,Kingsnoad,mkingsnoadd@biglobe.ne.jp
+15,Percy,Manis,pmanise@sciencedirect.com
+16,Carolynn,Dorney,cdorneyf@spotify.com

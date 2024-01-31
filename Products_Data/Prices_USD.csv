@@ -1,0 +1,7 @@
+product_id,name,price,currency,description
+1,iPhone3,149.99,USD,iPhone 3rd generation
+2,iPhone4,199.99,USD,iPhone 4th generation
+3,iPhone5,249.99,USD,iPhone 5th generation
+4,iPhone6,299.99,USD,iPhone 6th generation
+5,iPhone7,349.99,USD,iphone 7th generation
+6,iPad,499.99,USD,iPad 15 megapixel

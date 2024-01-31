@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,email
+17,Paton,Goggin,pgogging@youtu.be
+18,Ashley,McCawley,amccawleyh@delicious.com
+19,Rice,Dennis,rdennisi@irs.gov
+20,Bree,Loweth,blowethj@smugmug.com

@@ -1,0 +1,9 @@
+employee_id,store_id,first_name,last_name,department,start_date,salary,currency,isActive
+3,2,Devon,Bayless,sales,2006-09-20 11:30:00.123456,21.48,USD,Y
+4,2,Frank,Sharpe,sales,2006-09-20 11:30:00.123456,18.10,USD,Y
+57,2,Benedetta,Hailston,marketing,2006-09-20 11:30:00.123456,30.49,USD,Y
+58,2,Willette,Sokale,marketing,2006-09-20 11:30:00.123456,38.52,USD,Y
+59,2,Solly,Rulten,finance,2006-09-20 11:30:00.123456,40.30,USD,Y
+60,2,Antonie,Raoux,finance,2006-09-20 11:30:00.123456,43.67,USD,Y
+61,2,Krysta,Knoton,it,2006-09-20 11:30:00.123456,49.20,USD,Y
+62,2,Kary,Guilloux,it,2006-09-20 11:30:00.123456,46.63,USD,Y

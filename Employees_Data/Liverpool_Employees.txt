@@ -1,0 +1,9 @@
+employee_id,store_id,first_name,last_name,department,start_date,salary,currency,isActive
+19,10,Bentley,Novak,sales,2006-09-20 11:30:00.123456,17.74,GBP,Y
+20,10,Jim,Halpert,sales,2006-09-20 11:30:00.123456,16.40,GBP,Y
+33,10,Hildegarde,Spencley,marketing,2006-09-20 11:30:00.123456,37.06,GBP,Y
+34,10,Camile,Preddle,marketing,2006-09-20 11:30:00.123456,36.67,GBP,Y
+35,10,Seth,Extence,finance,2006-09-20 11:30:00.123456,32.98,GBP,Y
+36,10,Bria,Gomersall,finance,2006-09-20 11:30:00.123456,31.15,GBP,Y
+37,10,Hedda,Tattam,it,2006-09-20 11:30:00.123456,40.12,GBP,Y
+38,10,Isis,Ashingden,it,2006-09-20 11:30:00.123456,55.00,GBP,Y

@@ -1,0 +1,9 @@
+employee_id,store_id,first_name,last_name,department,start_date,salary,currency,isActive
+1,1,kim,stuart,sales,2006-09-20 11:30:00.123456,29.98,USD,Y
+2,1,tom,smith,sales,2006-09-20 11:30:00.123456,21.10,USD,Y
+69,1,Wynne,Belsher,marketing,2006-09-20 11:30:00.123456,30.64,USD,Y
+70,1,Michelina,Bissatt,marketing,2006-09-20 11:30:00.123456,37.79,USD,Y
+71,1,Kirstyn,Whacket,finance,2006-09-20 11:30:00.123456,21.36,USD,Y
+72,1,Carline,Pote,finance,2006-09-20 11:30:00.123456,20.19,USD,Y
+73,1,Lawrence,Lyddiard,it,2006-09-20 11:30:00.123456,40.25,USD,Y
+74,1,Hastie,Cockland,it,2006-09-20 11:30:00.123456,43.14,USD,Y

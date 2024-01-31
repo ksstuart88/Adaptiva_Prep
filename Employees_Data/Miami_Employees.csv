@@ -1,0 +1,9 @@
+employee_id,store_id,first_name,last_name,department,start_date,salary,currency,isActive
+15,8,Mariah,Davidson,sales,2006-09-20 11:30:00.123456,16.14,USD,Y
+16,8,Anthony,Simmons,sales,2006-09-20 11:30:00.123456,20.48,USD,Y
+51,8,Corella,Brandi,marketing,2006-09-20 11:30:00.123456,34.49,USD,Y
+52,8,Marcille,OCorrigane,marketing,2006-09-20 11:30:00.123456,30.00,USD,Y
+53,8,Ebeneser,Ruddell,finance,2006-09-20 11:30:00.123456,39.84,USD,Y
+54,8,Hynda,Farrand,finance,2006-09-20 11:30:00.123456,37.15,USD,Y
+55,8,Honor,Glendenning,it,2006-09-20 11:30:00.123456,39.13,USD,Y
+56,8,Berty,Somerscales,it,2006-09-20 11:30:00.123456,42.33,USD,Y

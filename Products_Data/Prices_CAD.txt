@@ -1,0 +1,7 @@
+product_id,name,price,currency,description
+13,iPhone3,201.16,CAD,iPhone 3rd generation
+14,iPhone4,268.21,CAD,iPhone 4th generation
+15,iPhone5,335.27,CAD,iPhone 5th generation
+16,iPhone6,402.33,CAD,iPhone 6th generation
+17,iPhone7,469.38,CAD,iphone 7th generation
+18,iPad,670.55,CAD,iPad 15 megapixel

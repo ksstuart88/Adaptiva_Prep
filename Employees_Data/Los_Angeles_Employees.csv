@@ -1,0 +1,9 @@
+employee_id,store_id,first_name,last_name,department,start_date,salary,currency,isActive
+5,3,Sally,Bradley,sales,2006-09-20 11:30:00.123456,19.39,USD,Y
+6,3,Judy,Hutchinson,sales,2006-09-20 11:30:00.123456,23.15,USD,Y
+45,3,Ethelbert,Sneddon,marketing,2006-09-20 11:30:00.123456,30.64,USD,Y
+46,3,Brooke,Keane,marketing,2006-09-20 11:30:00.123456,31.19,USD,Y
+47,3,Chaddie,Jalland,finance,2006-09-20 11:30:00.123456,40.15,USD,Y
+48,3,Daniel,Mitchenson,finance,2006-09-20 11:30:00.123456,40.17,USD,Y
+49,3,Harriot,Beddows,it,2006-09-20 11:30:00.123456,45.36,USD,Y
+50,3,Ferne,Patley,it,2006-09-20 11:30:00.123456,40.17,USD,Y

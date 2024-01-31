@@ -1,0 +1,9 @@
+employee_id,store_id,first_name,last_name,department,start_date,salary,currency,isActive
+9,5,Janet,Chavez,sales,2006-09-20 11:30:00.123456,32.35,CAD,Y
+10,5,Carol,Henderson,sales,2006-09-20 11:30:00.123456,19.19,CAD,Y
+27,5,Fredericka,Shall,marketing,2006-09-20 11:30:00.123456,36.13,CAD,Y
+28,5,Caty,Galtone,marketing,2006-09-20 11:30:00.123456,39.15,CAD,Y
+29,5,Bertie,Franceschelli,finance,2006-09-20 11:30:00.123456,43.06,CAD,Y
+30,5,Stormy,Breakspear,finance,2006-09-20 11:30:00.123456,43.97,CAD,Y
+31,5,Wilie,Tallyn,it,2006-09-20 11:30:00.123456,32.15,CAD,Y
+32,5,Paddy,Navein,it,2006-09-20 11:30:00.123456,39.56,CAD,Y

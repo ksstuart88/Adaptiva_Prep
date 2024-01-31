@@ -1,0 +1,7 @@
+product_id,name,price,currency,description
+7,iPhone3,117.99,GBP,iPhone 3rd generation
+8,iPhone4,157.32,GBP,iPhone 4th generation
+9,iPhone5,196.66,GBP,iPhone 5th generation
+10,iPhone6,235.99,GBP,iPhone 6th generation
+11,iPhone7,275.32,GBP,iphone 7th generation
+12,iPad,393.32,GBP,iPad 15 megapixel
