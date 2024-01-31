@@ -39,7 +39,7 @@ SIMULATE A CHANGE DATA CAPTURE USING WRITE AHEAD LOG (WAL)
 	a. write new transaction entries for all new records
 	b. update all existing records where updated_on > created_on
 
-SIMULATE SLOWLY CHANGING DATA (SCD) Type 1 and Type 2
+SIMULATE SLOWLY CHANGING DIMENSION (SCD) Type 1 and Type 2
 SCD Type 1 Example (update stage columns based on modified date)
 8. CREATE A pseudo transaction lot that records the following
 	add new sales transactions to atlanta stores
